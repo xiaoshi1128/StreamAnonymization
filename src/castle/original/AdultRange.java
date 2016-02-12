@@ -22,4 +22,5 @@ public class AdultRange {
         edu_numRange=new Range();
         hours_weekRange=new Range();
     }
+    //////////////
 }
